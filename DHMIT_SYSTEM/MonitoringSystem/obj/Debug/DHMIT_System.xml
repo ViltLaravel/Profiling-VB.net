@@ -1,0 +1,244 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DHMIT_System
+</name>
+</assembly>
+<members>
+<member name="T:MonitoringSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources._0_P6BWulLY_1aME7Tg">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources._0cacfadbb0735731968f4441e3de69bf">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources._2016_mustang_wallpapers_wallpaper_cave">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources._659533_2014_ford_mustang_rtr_spec_5_gray_speed_motors_supercars_cars">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources._976065">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.accept__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Add_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Add_User1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Admin_User">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Admin_User_256">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Admin_User1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.blog_size_1_of_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Book_Of_Record_Blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Button_Power_red">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Category">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Category1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Change_Password">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.delete__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.download__4_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.employees_management_software_760x530">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.folder_add">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.folder_add1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.HiRes__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.IMG_20190719_120322">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.IMG_20211124_090832">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.IMG20201205083724">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Logout__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.MY_PROFILE">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.PicsArt_04_14_07_52_36">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.R">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Search__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MonitoringSystem.My.Resources.Resources.Security">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.employeeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.leaveDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.employeeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.leaveRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.employeeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:MonitoringSystem.DataSet1.leaveRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="M:MonitoringSystem.frmsettings.frmsettings_Load(System.Object,System.EventArgs)">
+ <summary>
+ for the departments
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
